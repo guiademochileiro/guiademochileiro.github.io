@@ -1,2 +1,2 @@
 # guiademochileiro.github.io
-blog do guia do mochileiro
+blog de guia do mochileiro
